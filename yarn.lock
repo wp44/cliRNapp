@@ -4893,7 +4893,7 @@ __metadata:
     prettier: 2.8.8
     react: 18.2.0
     react-native: 0.74.3
-    react-native-dev-cli: ^0.0.5
+    react-native-dev-cli: ^0.0.8
     react-test-renderer: 18.2.0
     typescript: 5.0.4
   languageName: unknown
@@ -9527,9 +9527,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-dev-cli@npm:^0.0.5":
-  version: 0.0.5
-  resolution: "react-native-dev-cli@npm:0.0.5"
+"react-native-dev-cli@npm:^0.0.8":
+  version: 0.0.8
+  resolution: "react-native-dev-cli@npm:0.0.8"
   dependencies:
     "@react-native-community/cli": ^14.0.0
     chalk: ^5.3.0
@@ -9542,7 +9542,7 @@ __metadata:
     xcode: ^3.0.1
   bin:
     rndevcli: dist/index.js
-  checksum: f543d74aebdf96f1658a225dba9a5b2856c971c27bbb8ccbc6fef7d757c65eed31591549a2f61b671c630fc236e49017eb81c649b51eabb752bf98f1e7449cc0
+  checksum: b496ef53c33e28abada38068682af37417ed6532cacc81ae19e0864e2fab389a3b56ea60137406bf57174d470cdf5b4ccb56a9798e0b7da62375f4b55046a9fc
   languageName: node
   linkType: hard
 
